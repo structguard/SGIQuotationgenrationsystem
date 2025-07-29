@@ -1,0 +1,32 @@
+# dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# build
+dist/
+build/
+android/app/build/
+ios/build/
+
+# environment variables
+.env
+.env.local
+
+# macOS
+.DS_Store
+
+# logs
+*.log
+
+# Expo
+.expo/
+.expo-shared/
+
+# VS Code
+.vscode/
+
+# Temporary
+*.tmp
+*.swp
