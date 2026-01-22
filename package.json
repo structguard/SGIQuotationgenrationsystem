@@ -1,4 +1,5 @@
 {
+  "homepage": "https://structguard.github.io/SGIQuotationgenrationsystem",
   "name": "sgiquotation",
   "version": "0.1.0",
   "private": true,
@@ -39,6 +40,7 @@
     ]
   },
   "devDependencies": {
-    "ajv": "^7.2.4"
+    "ajv": "^7.2.4",
+    "gh-pages": "^6.3.0"
   }
 }
