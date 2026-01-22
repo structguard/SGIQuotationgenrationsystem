@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/SGIQuotationgenrationsystem/static/css/main.e6c13ad2.css",
+    "main.js": "/SGIQuotationgenrationsystem/static/js/main.6ba1cfbe.js",
+    "static/js/977.d7a7f97c.chunk.js": "/SGIQuotationgenrationsystem/static/js/977.d7a7f97c.chunk.js",
+    "static/js/732.8a97211e.chunk.js": "/SGIQuotationgenrationsystem/static/js/732.8a97211e.chunk.js",
+    "static/js/453.1c581414.chunk.js": "/SGIQuotationgenrationsystem/static/js/453.1c581414.chunk.js",
+    "static/media/round25mm.png": "/SGIQuotationgenrationsystem/static/media/round25mm.236a7703d81c0b5c0bd4.png",
+    "static/media/maharajadoorframe.png": "/SGIQuotationgenrationsystem/static/media/maharajadoorframe.35684f670144b76cf87b.png",
+    "static/media/plaindoorframe.png": "/SGIQuotationgenrationsystem/static/media/plaindoorframe.40bad639e68bb87aa061.png",
+    "static/media/50mm round bgremove.png": "/SGIQuotationgenrationsystem/static/media/50mm round bgremove.7ee72d2cd21c32c0c89e.png",
+    "static/media/30mm round bgremove.png": "/SGIQuotationgenrationsystem/static/media/30mm round bgremove.abb5e07e14e308820434.png",
+    "static/media/footing50mm-removebg-preview.png": "/SGIQuotationgenrationsystem/static/media/footing50mm-removebg-preview.d2cdbeaf4b0f7d84158f.png",
+    "static/media/round40mm.png": "/SGIQuotationgenrationsystem/static/media/round40mm.8732ca9fbfbd84e5b700.png",
+    "static/media/20-25pergectshape.png": "/SGIQuotationgenrationsystem/static/media/20-25pergectshape.e1de898489c45cfc9cbb.png",
+    "static/media/multibgremove.png": "/SGIQuotationgenrationsystem/static/media/multibgremove.ed0781879fbc3fd68ad1.png",
+    "static/media/companylogo.jpg": "/SGIQuotationgenrationsystem/static/media/companylogo.e0198bd78fd2d48e8dec.jpg",
+    "index.html": "/SGIQuotationgenrationsystem/index.html",
+    "main.e6c13ad2.css.map": "/SGIQuotationgenrationsystem/static/css/main.e6c13ad2.css.map",
+    "main.6ba1cfbe.js.map": "/SGIQuotationgenrationsystem/static/js/main.6ba1cfbe.js.map",
+    "977.d7a7f97c.chunk.js.map": "/SGIQuotationgenrationsystem/static/js/977.d7a7f97c.chunk.js.map",
+    "732.8a97211e.chunk.js.map": "/SGIQuotationgenrationsystem/static/js/732.8a97211e.chunk.js.map",
+    "453.1c581414.chunk.js.map": "/SGIQuotationgenrationsystem/static/js/453.1c581414.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6ba1cfbe.js"
+  ]
+}
