@@ -12,6 +12,7 @@
     "jspdf": "^3.0.2",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
+    "react-router-dom": "^7.12.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
@@ -19,7 +20,9 @@
     "start": "node node_modules/react-scripts/scripts/start.js",
     "build": "node node_modules/react-scripts/scripts/build.js",
     "test": "node node_modules/react-scripts/scripts/test.js",
-    "eject": "node node_modules/react-scripts/scripts/eject.js"
+    "eject": "node node_modules/react-scripts/scripts/eject.js",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
